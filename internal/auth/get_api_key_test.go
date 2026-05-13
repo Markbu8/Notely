@@ -16,7 +16,7 @@ func TestGetAPIKey(t *testing.T) {
 	}{
 		{
 			name:    "valid key",
-			header:  "ApiKey my-secret-key",
+			header:  "ApiKey my-secrt-key",
 			wantKey: "my-secret-key",
 		},
 		{
