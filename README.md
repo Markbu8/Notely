@@ -1,4 +1,4 @@
-[Tests](https://github.com/markbu8/Notely/actions/workflows/ci.yml/badge.svg)
+![Tests](https://github.com/markbu8/Notely/actions/workflows/ci.yml/badge.svg)
 
 # learn-cicd-starter (Notely)
 
